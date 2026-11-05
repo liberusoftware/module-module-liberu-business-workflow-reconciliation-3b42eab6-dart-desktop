@@ -1,0 +1,17 @@
+{
+  "repository": "module-module-liberu-business-workflow-reconciliation-3b42eab6-dart-desktop",
+  "capabilityKey": "liberusoftware/module-liberu-business-workflow-reconciliation",
+  "presentation": "dart-desktop",
+  "package": "module_module_liberu_business_workflow_reconciliation_3b42eab6_dart_desktop",
+  "foundation": "module-boilerplate-dart-desktop",
+  "foundationCommit": "5ccb3f077d7279dad684f2aa24e4c9d27f0d1246",
+  "canonicalPlan": "projects/accounting/nextjs/liberu-business-workflow-reconciliation.md",
+  "presentationPlan": "projects/accounting/features/liberu-business-workflow-reconciliation.md",
+  "identityReviewRequired": true,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "accounting",
+    "billing",
+    "genealogy"
+  ]
+}
